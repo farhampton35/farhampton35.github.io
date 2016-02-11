@@ -1,16 +1,18 @@
 # Permalinks
 permalink:           /:year-:month/:title
 
-# Setup
 # The title and tagline shown on homepage
 title:               Konoha
 tagline:             Hao's Blog
+
+# Setup
 url:                 http://farhampton35.com
 shorturl:            farhampton35.com
 feed:                /atom.xml
 paginate:            8
 baseurl:             ""
 pygments:            true
+comments:            true
 
 # Assets
 #
