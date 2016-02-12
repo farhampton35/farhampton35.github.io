@@ -3,28 +3,12 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+天地之间，人异途殊。你有你的幸福，我无法体验，正如我有我的快乐，你无法经历。然而即使如此，我们还是同样会遭遇各自的忧愁与痛苦。所以，从某种角度来看，人
+与人究竟还是相通的。在这条路上，都要痛并快乐地走下去。
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<br>
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+|<img style="float: left;" src="assets/img/favicon_google.ico" alt="" width="25" />&nbsp;&nbsp;&nbsp;**email** | [farhampton35@gmail.com](mailto:farhampton35@gmail.com)|
+|<img style="float: left;" src="http://www.weibo.com/favicon.ico" alt="" width="25" />&nbsp;&nbsp;&nbsp;**WeiBo** | [吴昊dot10000s](http://www.weibo.com/farhampton35)|
+|<img style="float: left;" src="assets/img/favicon_github.ico" alt="" width="25" />&nbsp;&nbsp;&nbsp;**GitHub** | [farhampton35](https://github.com/farhampton35)|
+|<img style="float: left;" src="http://www.douban.com/favicon.ico" alt="" width="25" />&nbsp;&nbsp;&nbsp;**douban** | [farhampton35](https://www.douban.com/people/farhampton35)|
